@@ -2,6 +2,7 @@ name: classicbikereview
 favicon: null
 layout_spectrum: 0.3152573932893574
 typography_spectrum: 0.7163799286354333
+title: Classic Bike Review
 cta:
   domain: null
   bucket: null
